@@ -15,6 +15,12 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
 
+    sourceSets {
+        main {
+            res.srcDirs = ['../../../../android/app/src/main/res']
+        }
+    }
+
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 22

@@ -1,20 +1,41 @@
-
 {
-  "name": "react-native-hsnz-notificaton",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "git+https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git",
+  "_id": "react-native-hsnz-notificaton@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-hsnz-notificaton",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git",
+    "rawSpec": "https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git",
+    "saveSpec": "git+https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git",
+    "fetchSpec": "https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git#e601f24244776eb16f473ba9b489e5a145611094",
+  "_spec": "https://github.com/mohammadhasanzadeh199/react-native-hsnz-notification.git",
+  "_where": "/home/mohammad/Documents/self/notifTest",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
   "keywords": [
     "react-native"
   ],
-  "author": "",
   "license": "",
+  "main": "index.js",
+  "name": "react-native-hsnz-notificaton",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
